@@ -2,3 +2,5 @@ dvc
 dvc[ssh]
 sklearn
 pandas
+pytest
+tox
